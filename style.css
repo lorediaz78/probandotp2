@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Butterfly+Kids&display=swap');
+h1{
+font-size: 85px;
+font-family: 'Butterfly Kids', cursive;
+}
+.myDiv {
+    
+        font-family: 'Avenir Next LT Pro', cursive;   
+    }
+.myDiv2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif 
+}    
+.myDiv3 {
+    font-family: cursive ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.myDiv4{
+    span{
+    font-family: 'Avenir Next LT Pro', cursive;   
+    }
+}
